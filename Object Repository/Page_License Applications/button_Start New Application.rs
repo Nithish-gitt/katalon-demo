@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Start New Application</name>
+   <tag></tag>
+   <elementGuidId>3c584430-7e59-411e-95ac-54980f38b3d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.slds-button.slds-button_brand</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[text()='Start New Application']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Start New Application&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ebe90d1e-21fa-4fd1-8beb-1d9f07dfb80a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-button slds-button_brand</value>
+      <webElementGuid>d1235527-db66-4b49-9660-f4785649f2df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>73d1111b-3435-4ef4-b4bf-c11913633f95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b9a8afc3-abb3-4124-8f84-ac1687f34052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>part</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bc880095-ef3c-4a9d-a2fc-648fd21678a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>kx-scope</name>
+      <type>Main</type>
+      <value>button-brand</value>
+      <webElementGuid>75ac5f56-8e35-46ce-a3ea-e7c43fe80f92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>kx-type</name>
+      <type>Main</type>
+      <value>ripple</value>
+      <webElementGuid>5be67bae-0262-4ea7-b0d7-2af78e51cb16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start New Application</value>
+      <webElementGuid>5f3ffc9b-dda1-4baf-b9c1-dac411ac5cbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;slds-no-wcag&quot;]/body[@class=&quot;null comm-page-custom-License Applications&quot;]/div[@class=&quot;themeLayoutStarterWrapper isHeroUnderHeader-false isHeaderPinned-true siteforceThemeLayoutStarter&quot;]/div[@class=&quot;body isPageWidthFixed-true&quot;]/div[@class=&quot;siteforceDynamicLayout siteforceContentArea&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/div[@class=&quot;cb-section forceCommunitySection&quot;]/div[@class=&quot;cb-section_row slds-grid slds-wrap slds-large-nowrap&quot;]/div[@class=&quot;cb-section_column slds-size_12-of-12 slds-max-medium-size_12-of-12&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/article[@class=&quot;slds-card flowRuntimeForFlexipage forceCommunityFlowCommunity&quot;]/div[1]/flowruntime-flow[1]/flowruntime-navigation-bar[@class=&quot;slds-card__footer navigationBar&quot;]/footer[@class=&quot;slds-scope footerContainer slds-grid slds-grid_align-spread&quot;]/div[@class=&quot;navigation-bar__right-align&quot;]/lightning-button[@class=&quot;slds-button flow-button__NEXT&quot;]/button[@class=&quot;slds-button slds-button_brand&quot;]</value>
+      <webElementGuid>f3fdcb02-2ea8-4dfd-ae79-87085b3ec654</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>81b2d009-d528-43e4-9dac-e773c207a45a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/following::button[1]</value>
+      <webElementGuid>c8708f84-00a1-484c-818a-fe445430d11e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start New Application'])[1]/following::button[1]</value>
+      <webElementGuid>8598f47c-e3ad-4b74-b81b-622166fd74b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[2]/preceding::button[1]</value>
+      <webElementGuid>e12ec081-77fc-4e27-8906-58373b6c17b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//lightning-button/button</value>
+      <webElementGuid>2cc7c69b-cf3e-4a77-acee-eac3beeab214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Start New Application' or . = 'Start New Application')]</value>
+      <webElementGuid>458d5ff7-c9d9-4e74-b6dc-0a2593a83b0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Business Application Portal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3c8020a8-0b2c-46f8-9403-25cb58290d6c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e75fc4de-8407-45b6-ab6b-b2f7c7ab1a27</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Portal Credentials</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e75fc4de-8407-45b6-ab6b-b2f7c7ab1a27</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>00fc2d1e-c84b-4af9-ac4c-2d0994c5428e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e75fc4de-8407-45b6-ab6b-b2f7c7ab1a27</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>6e2ae63e-cbb0-4f38-a058-72ee526741f3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>00fc2d1e-c84b-4af9-ac4c-2d0994c5428e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6e2ae63e-cbb0-4f38-a058-72ee526741f3</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

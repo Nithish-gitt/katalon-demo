@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Open Existing Application</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4e1d8057-27e0-4022-ae78-cfaa17d52617</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>26d6c75c-9416-45fa-b847-2df282b1813c</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Console Credentials</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>26d6c75c-9416-45fa-b847-2df282b1813c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>25c1c269-cf00-4a09-88a5-fcb6a1c76fe1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>26d6c75c-9416-45fa-b847-2df282b1813c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>938fa303-cad3-4b51-ad4a-502c0b7b8dc6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>25c1c269-cf00-4a09-88a5-fcb6a1c76fe1</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>938fa303-cad3-4b51-ad4a-502c0b7b8dc6</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

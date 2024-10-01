@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login To Columbia</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c4bdce84-cde1-497f-a331-4f9a84ed924c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3cfb0365-0a52-4140-bd17-6467f8070b15</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Console Credentials</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>3cfb0365-0a52-4140-bd17-6467f8070b15</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>6b4b3924-be77-448a-baab-2269357ff830</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>3cfb0365-0a52-4140-bd17-6467f8070b15</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>31beeb87-a48a-4543-b8e8-ed57b71f178a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6b4b3924-be77-448a-baab-2269357ff830</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>31beeb87-a48a-4543-b8e8-ed57b71f178a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

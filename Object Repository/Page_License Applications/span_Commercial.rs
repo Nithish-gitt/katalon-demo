@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Commercial</name>
+   <tag></tag>
+   <elementGuidId>a48359bf-9e4e-42d2-bc05-f659ad4ce683</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#combobox-button-281-1-281 > span.slds-media__body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-value=&quot;Commercial&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;Commercial&quot;i] >> span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>43dbf41f-5181-4706-ab0a-03623808eba3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-media__body</value>
+      <webElementGuid>48f4ef1d-1e5f-4fa4-9ea8-bce33108df57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Commercial</value>
+      <webElementGuid>6c732728-ccfd-4efe-ae61-faeefb90d2ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;combobox-button-281-1-281&quot;)/span[@class=&quot;slds-media__body&quot;]</value>
+      <webElementGuid>54f97d1a-e803-418b-80ac-2b5a0f1892fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[@id='combobox-button-281-1-281']/span[2]</value>
+      <webElementGuid>c6318cc6-0293-4374-8682-035c7b000610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--None--'])[2]/following::span[2]</value>
+      <webElementGuid>4e63c0d5-d1d4-4e69-afa8-f6a2b4634cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--None--'])[1]/following::span[7]</value>
+      <webElementGuid>5e027574-cac4-42ba-b2b1-31a160c73643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home Based'])[1]/preceding::span[3]</value>
+      <webElementGuid>e5a88b80-23bd-457e-adc3-adeaeee1b087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[2]/span[2]</value>
+      <webElementGuid>6479c736-68d8-4d51-966c-9e6c78d4e208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Commercial' or . = 'Commercial')]</value>
+      <webElementGuid>621c1b31-49d8-4bd1-9418-cd20faec8cfb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Business License</name>
+   <tag></tag>
+   <elementGuidId>06b80c47-d22a-41e2-854e-f129eb5a9000</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#RADIO-LABEL-2-80</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[span[*[span[text()='Business License']]]]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#RADIO-LABEL-2-80</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6a75ddb2-5c1f-4dfb-aa5d-4547c4985dd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-radio__label flow-radio-button-label</value>
+      <webElementGuid>dd604817-fbd3-4a2e-858b-98e4b4459725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>RADIO-LABEL-2-80</value>
+      <webElementGuid>7d9ca074-b02b-4e01-a2dd-3a20ea5921f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>RADIO-2-80</value>
+      <webElementGuid>9d829550-1c05-4566-b4d1-9e1b9d8c4452</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Business License</value>
+      <webElementGuid>dc5aad38-1e3f-40b0-85d3-1aa791d9168d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RADIO-LABEL-2-80&quot;)</value>
+      <webElementGuid>b1682996-f261-494a-aa17-6dc3d2b7717a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='RADIO-LABEL-2-80']</value>
+      <webElementGuid>0267a71d-4b7b-46ee-848e-45c48e89642b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arcade License'])[1]/following::label[1]</value>
+      <webElementGuid>e672c2bd-e2ae-45e9-8ed2-dc4c7186f015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alcoholic Beverage License‍‍'])[1]/following::label[2]</value>
+      <webElementGuid>4d8c9d64-a575-480b-8682-1193ae2f678c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fireworks Stand License'])[1]/preceding::label[1]</value>
+      <webElementGuid>8e85b848-b2a8-481e-97db-9ca9ef25e7a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/label</value>
+      <webElementGuid>a1af0d08-48bc-4665-ab4d-44f809491715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'RADIO-LABEL-2-80' and (text() = 'Business License' or . = 'Business License')]</value>
+      <webElementGuid>5b81245f-0ed8-4321-96cd-c9d1352258e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Business License Application</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de1d37ab-65bd-49a2-b7ca-0d88a4a7ba34</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>9c6bf585-cbae-4747-a35c-fbd877fb7e0d</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Console Credentials</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>9c6bf585-cbae-4747-a35c-fbd877fb7e0d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>5e97c967-269b-4350-8899-48000e14e3c2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>9c6bf585-cbae-4747-a35c-fbd877fb7e0d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>231eb05a-7bef-4c5d-a004-141f1f20d5c4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e97c967-269b-4350-8899-48000e14e3c2</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>231eb05a-7bef-4c5d-a004-141f1f20d5c4</id>
+      <masked>true</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

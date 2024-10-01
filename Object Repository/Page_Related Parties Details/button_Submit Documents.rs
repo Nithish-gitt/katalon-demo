@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Submit Documents</name>
+   <tag></tag>
+   <elementGuidId>aa227a76-ad4c-4fe7-9d41-ed71a70ebd0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.slds-button.slds-button_neutral</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@value='Submit Documents']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Submit Documents&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8ad2ddcc-3e43-4ba3-bac6-6ba7ffb66510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-button slds-button_neutral</value>
+      <webElementGuid>48893f23-b5e7-4611-a084-403b5f98b4e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e0944e4e-d552-4484-86ee-406676343ae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d511a2f5-aeb9-402c-b2c3-594e9e1463ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Submit Documents</value>
+      <webElementGuid>024ee0bc-105b-4b73-9065-7fd2bd98a2d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>part</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f2c45bc7-6de1-45cf-9e21-d3ae4004c28f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>kx-scope</name>
+      <type>Main</type>
+      <value>button-neutral</value>
+      <webElementGuid>d9e3ff91-d757-474d-8c2a-3feaada2c995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>kx-type</name>
+      <type>Main</type>
+      <value>ripple</value>
+      <webElementGuid>799aa632-1654-4908-9c0d-9992494d6b71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit Documents</value>
+      <webElementGuid>3184bcb5-4b89-4602-871b-c49756c66c87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;slds-no-wcag&quot;]/body[@class=&quot;null comm-page-custom-License Applications&quot;]/div[@class=&quot;themeLayoutStarterWrapper isHeroUnderHeader-false isHeaderPinned-true siteforceThemeLayoutStarter&quot;]/div[@class=&quot;body isPageWidthFixed-true&quot;]/div[@class=&quot;siteforceDynamicLayout siteforceContentArea&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/div[@class=&quot;cb-section forceCommunitySection&quot;]/div[@class=&quot;cb-section_row slds-grid slds-wrap slds-large-nowrap&quot;]/div[@class=&quot;cb-section_column slds-size_12-of-12 slds-max-medium-size_12-of-12&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/article[@class=&quot;slds-card flowRuntimeForFlexipage forceCommunityFlowCommunity&quot;]/div[1]/flowruntime-flow[1]/flowruntime-lwc-body[1]/div[@class=&quot;flowruntimeBody flowruntimeBody__lwc slds-card__body slds-p-horizontal_small&quot;]/flowruntime-list-container[1]/div[1]/flowruntime-base-section[1]/div[1]/flowruntime-screen-field[9]/flowruntime-lwc-field[@class=&quot;field-element&quot;]/div[@class=&quot;container&quot;]/clariti-flow-button-bar[1]/div[@class=&quot;slds-clearfix&quot;]/div[@class=&quot;slds-float_right notToggle&quot;]/lightning-button[1]/button[@class=&quot;slds-button slds-button_neutral&quot;]</value>
+      <webElementGuid>0dedd42e-9bfb-4874-b3cc-f6e95b335716</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@value='Submit Documents']</value>
+      <webElementGuid>2f77c98c-70e9-45ed-a416-cce49dcd8517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='True'])[2]/following::button[1]</value>
+      <webElementGuid>a61d3bcb-61e0-40bc-b8da-230cb8f18691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Private Employer Affidavit'])[1]/following::button[1]</value>
+      <webElementGuid>bf49c264-2494-45e0-812d-ea833d1241a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finish'])[1]/preceding::button[1]</value>
+      <webElementGuid>7b1cf55d-c63b-46aa-afa5-505077683bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[2]/preceding::button[2]</value>
+      <webElementGuid>411c9916-ba3c-4dbc-bc19-29eb23629b5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//lightning-button/button</value>
+      <webElementGuid>ff5d1fc0-8546-4de2-868e-0d6a1d5e98ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Submit Documents' or . = 'Submit Documents')]</value>
+      <webElementGuid>37286648-4c35-435f-b8e2-c9ace7dd1564</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

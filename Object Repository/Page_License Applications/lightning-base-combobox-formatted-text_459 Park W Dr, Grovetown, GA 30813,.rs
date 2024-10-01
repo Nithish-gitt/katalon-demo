@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lightning-base-combobox-formatted-text_459 Park W Dr, Grovetown, GA 30813,</name>
+   <tag></tag>
+   <elementGuidId>6f4a1a2d-85b4-4519-b69e-998c1e322d8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>lightning-base-combobox-formatted-text.slds-truncate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul/li/lightning-base-combobox-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;459 Park W Dr, Grovetown, GA 30813,&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>lightning-base-combobox-formatted-text</value>
+      <webElementGuid>84f1a39c-5293-4ffc-953b-a3065fadaafc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate</value>
+      <webElementGuid>48b6eec8-3ab4-4db7-87b1-8957ce68dca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>459 Park W Dr, Grovetown, GA 30813,</value>
+      <webElementGuid>0c6b2d32-62b6-4581-8496-472821f6aa94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>459 Park W Dr, Grovetown, GA 30813,</value>
+      <webElementGuid>87d27e5e-3e8b-4161-b76e-c5200392b83f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;combobox-input-288-1-288&quot;)/span[@class=&quot;slds-media__body&quot;]/span[@class=&quot;slds-listbox__option-text slds-listbox__option-text_entity&quot;]/lightning-base-combobox-formatted-text[@class=&quot;slds-truncate&quot;]</value>
+      <webElementGuid>df5beb27-306b-46f4-8471-05545c90c544</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[@id='combobox-input-288-1-288']/span[2]/span/lightning-base-combobox-formatted-text</value>
+      <webElementGuid>27a2b853-5322-48f1-8649-26a7edab8013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[3]/following::lightning-base-combobox-formatted-text[1]</value>
+      <webElementGuid>1a00b2d1-7855-4f2e-926f-a02e595990a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address of Business'])[1]/preceding::lightning-base-combobox-formatted-text[2]</value>
+      <webElementGuid>0d953700-dd57-4699-9cca-d3a35c2fdd05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Park W Dr, Grovetown, GA 30813,']/parent::*</value>
+      <webElementGuid>f8d5f009-c71c-4ec9-8e0d-4fbfaf9c1b32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-formatted-text</value>
+      <webElementGuid>cba1a455-9bc2-428a-bbaf-6c6be2e1c8aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-formatted-text[@title = '459 Park W Dr, Grovetown, GA 30813,' and (text() = '459 Park W Dr, Grovetown, GA 30813,' or . = '459 Park W Dr, Grovetown, GA 30813,')]</value>
+      <webElementGuid>eac8c93c-80d2-4c00-9605-c02c6d30dbb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

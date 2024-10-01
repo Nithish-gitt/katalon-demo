@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Columbia TestCases</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>70a3d836-cd1d-4433-9dd1-9f909c32eb61</testSuiteGuid>
+   <testCaseLink>
+      <guid>f7f88422-d520-405d-927a-d22314b6eb62</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/New Business Application Portal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>00fc2d1e-c84b-4af9-ac4c-2d0994c5428e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6e2ae63e-cbb0-4f38-a058-72ee526741f3</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b885378b-9415-466c-8514-6f61b8b3c4d8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/New Business License Application</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5e97c967-269b-4350-8899-48000e14e3c2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>231eb05a-7bef-4c5d-a004-141f1f20d5c4</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cfa9be30-5790-443e-a4ce-a2c19006cb5f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Open Existing Application</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>25c1c269-cf00-4a09-88a5-fcb6a1c76fe1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>938fa303-cad3-4b51-ad4a-502c0b7b8dc6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

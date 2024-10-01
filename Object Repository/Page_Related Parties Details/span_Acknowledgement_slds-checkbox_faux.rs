@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Acknowledgement_slds-checkbox_faux</name>
+   <tag></tag>
+   <elementGuidId>f92c3f59-6c7a-4f69-b99a-aa41a7d8c25e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.slds-checkbox_faux</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label span >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0bd7afd0-2372-42b6-9328-e21e4c8a01d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>part</name>
+      <type>Main</type>
+      <value>indicator</value>
+      <webElementGuid>ce5db0e1-3243-473e-b7d4-e4213891006d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-checkbox_faux</value>
+      <webElementGuid>a9d15168-4003-404a-9f04-b4be9d295b04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;slds-no-wcag&quot;]/body[@class=&quot;null comm-page-custom-License Applications&quot;]/div[@class=&quot;themeLayoutStarterWrapper isHeroUnderHeader-false isHeaderPinned-true siteforceThemeLayoutStarter&quot;]/div[@class=&quot;body isPageWidthFixed-true&quot;]/div[@class=&quot;siteforceDynamicLayout siteforceContentArea&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/div[@class=&quot;cb-section forceCommunitySection&quot;]/div[@class=&quot;cb-section_row slds-grid slds-wrap slds-large-nowrap&quot;]/div[@class=&quot;cb-section_column slds-size_12-of-12 slds-max-medium-size_12-of-12&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/article[@class=&quot;slds-card flowRuntimeForFlexipage forceCommunityFlowCommunity&quot;]/div[1]/flowruntime-flow[1]/flowruntime-lwc-body[1]/div[@class=&quot;flowruntimeBody flowruntimeBody__lwc slds-card__body slds-p-horizontal_small&quot;]/flowruntime-list-container[1]/div[1]/flowruntime-base-section[1]/div[1]/flowruntime-screen-field[3]/flowruntime-lwc-field[@class=&quot;field-element&quot;]/div[@class=&quot;container slds-m-bottom_x-small&quot;]/flowruntime-flow-screen-input[1]/flowruntime-input-wrapper2[1]/div[@class=&quot;flowruntime-input slds-form-element flowruntime-inline-container&quot;]/lightning-input[@class=&quot;flowruntime-inline slds-form-element&quot;]/lightning-primitive-input-checkbox[1]/div[@class=&quot;slds-form-element__control slds-grow&quot;]/span[@class=&quot;slds-checkbox&quot;]/label[@class=&quot;slds-checkbox__label&quot;]/span[@class=&quot;slds-checkbox_faux&quot;]</value>
+      <webElementGuid>762d388c-439e-4c4b-84ce-24690f6d0fe8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>a3fd78f8-2b86-444b-bc9c-b0a439745295</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

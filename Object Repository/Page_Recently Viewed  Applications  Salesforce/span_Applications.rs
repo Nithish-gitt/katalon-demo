@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Applications</name>
+   <tag></tag>
+   <elementGuidId>08a9ff9c-bad2-45a7-9bcf-299a0160b3b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;slds-breadcrumb__item slds-line-height_reset slds-line-height--reset&quot;]/span[text()='Applications']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.empty.test-listViewManager.slds-card.slds-card_boundary.slds-grid.slds-grid_vertical.slds-grid--vertical.forceListViewManager > div.slds-page-header_object-home.slds-page-header--object-home.slds-page-header_joined.slds-page-header_bleed.slds-page-header.slds-shrink-none.test-headerRegion.forceListViewManagerHeader > div.slds-grid > div.slds-col.slds-has-flexi-truncate.firstHeaderRow > div.slds-media.slds-no-space.slds-grow > div.slds-media__body.slds-align-middle > lst-breadcrumbs > div.slds-breadcrumb.slds-list_horizontal.slds-wrap > div.slds-breadcrumb__item.slds-line-height_reset.slds-line-height--reset > span.slds-var-p-right_x-small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Recently Viewed|Applications|List View&quot;i >> lst-breadcrumbs >> internal:text=&quot;Applications&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>93a700c4-8cb6-4724-8baa-c90936397be3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-var-p-right_x-small</value>
+      <webElementGuid>79d69101-892f-44ec-8147-3f62e9b5ec17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Applications</value>
+      <webElementGuid>787648ed-815a-406a-bacb-728951d8d4b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/div[@class=&quot;forceObjectHomeDesktop&quot;]/div[@class=&quot;empty  test-listViewManager slds-card slds-card_boundary slds-grid slds-grid_vertical slds-grid--vertical forceListViewManager&quot;]/div[@class=&quot;slds-page-header_object-home slds-page-header--object-home slds-page-header_joined slds-page-header_bleed slds-page-header slds-shrink-none test-headerRegion forceListViewManagerHeader&quot;]/div[@class=&quot;slds-grid&quot;]/div[@class=&quot;slds-col slds-has-flexi-truncate firstHeaderRow&quot;]/div[@class=&quot;slds-media slds-no-space slds-grow&quot;]/div[@class=&quot;slds-media__body slds-align-middle&quot;]/lst-breadcrumbs[1]/div[@class=&quot;slds-breadcrumb slds-list_horizontal slds-wrap&quot;]/div[@class=&quot;slds-breadcrumb__item slds-line-height_reset slds-line-height--reset&quot;]/span[@class=&quot;slds-var-p-right_x-small&quot;]</value>
+      <webElementGuid>0837e66d-c745-41c8-974f-416529cd98bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div[2]/div/div/div/div/div/div/div/lst-breadcrumbs/div/div/span</value>
+      <webElementGuid>81391279-0b46-4c18-8b9e-820ac3bf0049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::span[5]</value>
+      <webElementGuid>711780e6-e40e-4a69-9cc1-b7c33ea779ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[6]</value>
+      <webElementGuid>510dce10-d4a6-4e2f-9b23-2299483bebc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recently Viewed'])[2]/preceding::span[2]</value>
+      <webElementGuid>04c750d7-48c0-445c-82c0-be1f6fff6204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a List View: Applications'])[1]/preceding::span[3]</value>
+      <webElementGuid>f0e580f2-f64c-4ebe-938d-19504f568f7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/lst-breadcrumbs/div/div/span</value>
+      <webElementGuid>1e58aef1-5cb5-4c95-a449-d06006d9a322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Applications' or . = 'Applications')]</value>
+      <webElementGuid>1fc5fbbd-eb4c-4565-b178-cbc063377574</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

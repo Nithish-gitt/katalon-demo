@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Register</name>
+   <tag></tag>
+   <elementGuidId>f2f4cf50-5bd7-4131-b493-eb222370d068</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.selfRegister</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=/^Register$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d81b48cc-89b1-44eb-a7ed-79527ab08f49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selfRegister</value>
+      <webElementGuid>f5d92059-75c3-4de0-9b66-9c5b9ad71a46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>438:0</value>
+      <webElementGuid>8262d195-f52f-4695-a1a0-09c7103ddaa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register</value>
+      <webElementGuid>f71c3b86-b4ea-4f2e-a49b-95adbd670336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;slds-no-wcag&quot;]/body[@class=&quot;null comm-page-login-home&quot;]/div[@class=&quot;themeLayoutStarterWrapper isHeroUnderHeader-true isHeaderPinned-false siteforceThemeLayoutStarter&quot;]/div[@class=&quot;body isPageWidthFixed-true&quot;]/div[@class=&quot;siteforceSldsThreeCol363Layout siteforceContentArea&quot;]/div[@class=&quot;slds-grid slds-wrap slds-medium-nowrap slds-large-nowrap&quot;]/div[@class=&quot;slds-col--padded slds-size--12-of-12 slds-medium-size--6-of-12 slds-medium-order--2 slds-large-size--6-of-12 slds-large-order--2 comm-layout-column&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/div[@class=&quot;salesforceIdentityLoginForm2&quot;]/div[4]/span[@class=&quot;selfRegister&quot;]</value>
+      <webElementGuid>050d0c96-661c-4b1d-b68f-a012c7cc4c4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password'])[1]/following::span[1]</value>
+      <webElementGuid>17cb6e66-3a48-4b43-af12-a9a6525602d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[2]/following::span[2]</value>
+      <webElementGuid>cd11ae0d-f23f-499b-819e-5c1c92a5d79b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[2]/preceding::span[4]</value>
+      <webElementGuid>a20ab679-8f99-4fe0-a488-16eb5e45075e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span[2]</value>
+      <webElementGuid>a282d9e0-f633-410a-8347-4144062f5f51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Register' or . = 'Register')]</value>
+      <webElementGuid>bd6c0a2b-9017-4cf7-8571-64874c16eb91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

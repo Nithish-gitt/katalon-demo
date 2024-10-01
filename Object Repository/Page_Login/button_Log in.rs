@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Log in</name>
+   <tag></tag>
+   <elementGuidId>1ff7589d-38b3-4b52-8a62-62578e253601</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.slds-button.slds-button--brand.loginButton.uiButton--none.uiButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[span[text()='Log in']]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=main >> internal:role=button[name=&quot;Log in&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d53f2a66-aaf8-4693-9145-d12a4a6dfd57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>93be782f-060c-4cf1-824b-c45fa6284086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>04e11a29-7a42-40a1-9493-8a28bf57d494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-button slds-button--brand loginButton uiButton--none uiButton</value>
+      <webElementGuid>eae7a70b-d3cc-4824-b2d0-0853bfe95227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>425:0</value>
+      <webElementGuid>37439146-4ef3-4799-8b88-60bdda7888c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-class</name>
+      <type>Main</type>
+      <value>uiButton--none uiButton</value>
+      <webElementGuid>5d4e7929-f3fa-4dd0-9798-92c08ffd158b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in</value>
+      <webElementGuid>52af45df-3678-4b7f-8e75-e005d1f23d21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;slds-no-wcag&quot;]/body[@class=&quot;null comm-page-login-home&quot;]/div[@class=&quot;themeLayoutStarterWrapper isHeroUnderHeader-true isHeaderPinned-false siteforceThemeLayoutStarter&quot;]/div[@class=&quot;body isPageWidthFixed-true&quot;]/div[@class=&quot;siteforceSldsThreeCol363Layout siteforceContentArea&quot;]/div[@class=&quot;slds-grid slds-wrap slds-medium-nowrap slds-large-nowrap&quot;]/div[@class=&quot;slds-col--padded slds-size--12-of-12 slds-medium-size--6-of-12 slds-medium-order--2 slds-large-size--6-of-12 slds-large-order--2 comm-layout-column&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/div[@class=&quot;salesforceIdentityLoginForm2&quot;]/div[3]/button[@class=&quot;slds-button slds-button--brand loginButton uiButton--none uiButton&quot;]</value>
+      <webElementGuid>f0431eab-436c-47be-8c8b-8e9459a35360</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>3034ced9-42b9-42f6-8367-ad1b2eec2056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>37ae8c3b-a386-47f0-a857-eebb9bbb9634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[1]</value>
+      <webElementGuid>90e07a74-c2e1-4cb5-a5ca-4a232350f792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password'])[1]/preceding::button[1]</value>
+      <webElementGuid>aec4c37b-34bb-497a-9762-75fec40a62c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>73dd9814-9da5-4942-9368-39e08b179e33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Log in' or . = 'Log in')]</value>
+      <webElementGuid>9122854c-c895-4085-967c-10d88542a3de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

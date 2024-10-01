@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Success</name>
+   <tag></tag>
+   <elementGuidId>37dd86f8-62d7-4b02-a824-7cf87c61caa9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(3) > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[b[text()='Success']]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Success&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>9e4689e2-50bc-44b6-89da-efd928996c4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Success</value>
+      <webElementGuid>9f84af34-ce9a-480d-9c61-9855814d15da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;slds-no-wcag&quot;]/body[@class=&quot;null Applications comm-page-custom-License Applications&quot;]/div[@class=&quot;themeLayoutStarterWrapper isHeroUnderHeader-false isHeaderPinned-true siteforceThemeLayoutStarter&quot;]/div[@class=&quot;body isPageWidthFixed-true&quot;]/div[@class=&quot;siteforceDynamicLayout siteforceContentArea&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/div[@class=&quot;cb-section forceCommunitySection&quot;]/div[@class=&quot;cb-section_row slds-grid slds-wrap slds-large-nowrap&quot;]/div[@class=&quot;cb-section_column slds-size_12-of-12 slds-max-medium-size_12-of-12&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/article[@class=&quot;slds-card flowRuntimeForFlexipage forceCommunityFlowCommunity&quot;]/div[1]/flowruntime-flow[1]/flowruntime-lwc-body[1]/div[@class=&quot;flowruntimeBody flowruntimeBody__lwc slds-card__body slds-p-horizontal_small&quot;]/flowruntime-list-container[1]/div[1]/flowruntime-base-section[1]/div[1]/flowruntime-screen-field[1]/flowruntime-lwc-field[@class=&quot;field-element&quot;]/div[@class=&quot;container slds-m-bottom_x-small&quot;]/flowruntime-display-text-lwc[1]/lightning-formatted-rich-text[@class=&quot;slds-rich-text-editor__output&quot;]/span[1]/p[3]/b[1]</value>
+      <webElementGuid>75a199f8-6340-458a-b4c9-20c56adec38e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Business License Application'])[1]/following::b[1]</value>
+      <webElementGuid>c2e3c154-e840-4c5f-83ae-da6d7f9cd9f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='License Applications'])[2]/following::b[2]</value>
+      <webElementGuid>b809e79a-08db-42c1-b2b8-e091557a88c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Business License Application has been submitted. Your reference number is'])[1]/preceding::b[1]</value>
+      <webElementGuid>8dffc2ac-8134-42d0-b7d9-95948a390154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APP-24-00350'])[1]/preceding::b[1]</value>
+      <webElementGuid>acad18a8-8d38-42d0-b084-c0ca4a897def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Success']/parent::*</value>
+      <webElementGuid>5cf5ceac-5f83-49af-b6ca-bb906102819b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]/b</value>
+      <webElementGuid>22a1d5dc-cbba-4a58-adee-5a7fc7ee168b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Success' or . = 'Success')]</value>
+      <webElementGuid>ee386241-27a8-44fe-9a6f-4e07e8393394</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
